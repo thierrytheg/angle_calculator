@@ -2,12 +2,6 @@
 
 #Clone
 
-
-# angle_calculator
-![](images/20211121_175400.jpg)
-![](images/20211118_112433.jpg)
-![](images/20211118_112443.jpg)
-
 Over the years, I have developed many bad habits. One of them is lean on my left side while sitting down. This has resulted in shoulder pain that has taken months to heal. 
 
 Because I assume, I am far from being the only one with such bad habits, I have written a short CircuitPython script using VS Code CircuitPython extension inspired by Adafruit Carter Nelson's slouch detector to help prevent such injuries from happening.
@@ -25,6 +19,14 @@ I hope many of you find this useful and look forward to hearing about your exper
 https://github.com/thierrytheg/angle_calculator
 
 #circuitpython #microcontroller
+
+
+# angle_calculator
+![](images/20211121_175400.jpg)
+![](images/20211118_112433.jpg)
+![](images/20211118_112443.jpg)
+
+
 
 
 
