@@ -2,10 +2,12 @@ import time
 import math
 from adafruit_circuitplayground.express import cpx
 
+#Initialize starting x,y and z coordinates to measure the angle against
 x0,y0,z0=cpx.acceleration[0],cpx.acceleration[1],cpx.acceleration[2]
+#Angle threshhold in degrees
 angle_threshhold=30
 
-
+#Function to calculate angle in degrees
 def calculate_angle(x0,y0,z0,x1,y1,z1):
     num_dot_product=x0 * x1 + y0 * y1 + z0 * z1
     denom_dot_product_0=math.sqrt(x0**2 + y0**2 + z0**2)
@@ -23,5 +25,3 @@ while True:
         cpx.pixels.fill((50, 0, 0))
         cpx.play_tone(800, 0.25)
         cpx.pixels.fill((0, 0, 0))
-
-
