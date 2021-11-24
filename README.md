@@ -23,6 +23,8 @@ https://github.com/thierrytheg/angle_calculator
 
 # angle_calculator
 ![](images/Picture1.png)
+![](images/Picture2.png)
+![](images/Picture3.png)
 
 
 
