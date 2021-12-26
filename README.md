@@ -10,12 +10,15 @@ I have left a link to the github repository in the comment section for anyone to
 
 I hope many of you find this useful and look forward to hearing about your experience with your own version.
 
-# angle_calculator
+# Visuals
 ![](images/Picture1.png)
 ![](images/Picture2.png)
 ![](images/Picture3.png)
 
-
+# Hardware
+![](images/Picture1.png)
+![](images/Picture2.png)
+![](images/Picture3.png)
 
 
 
