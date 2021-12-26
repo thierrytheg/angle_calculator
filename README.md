@@ -1,5 +1,3 @@
-#Hardware
-
 Leaning on my left side while sitting down is one of the many bad habits I have developed over the years which unfortunately resulted in a shoulder injury that has taken months to heal. 
 
 Because I assume, I am far from being the only one with such a habits, I have written a short CircuitPython script using the VS Code CircuitPython extension inspired by Adafruit Carter Nelson's slouch detector to help prevent other from developing similar injuries.
