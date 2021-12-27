@@ -10,15 +10,17 @@ I have left a link to the github repository in the comment section for anyone to
 
 I hope many of you find this useful and look forward to hearing about your experience with your own version.
 
-# Visuals
 ![](images/Picture1.png)
 ![](images/Picture2.png)
 ![](images/Picture3.png)
 
 # Hardware
-![](images/Picture1.png)
-![](images/Picture2.png)
-![](images/Picture3.png)
+Circuit Playground Express or (Circuit Playground BlueFruit)
+Power Source (Repurposed phone or AAA Battery Holder JST-PH)
+Armband
+Micro USB cable + Micro USB  to Female Adapter
+or USB C cable + USB C to Female Adapter
+![](images/20211226_161012.jpg)
 
 
 
