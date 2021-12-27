@@ -21,7 +21,6 @@ Armband
 Micro USB cable + Micro USB  to Female Adapter
 or USB C cable + USB C to Female Adapter
 ![](images/20211226_161809.jpg)
-![](images/20211226_161843.jpg)
 
 
 
